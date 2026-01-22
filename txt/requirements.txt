@@ -1,0 +1,15 @@
+gtts==2.3.2
+openai==0.27.0
+pydub==0.25.1
+vosk==0.3.45
+google-api-python-client==2.89.0
+google-auth==2.20.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==1.0.0
+sounddevice==0.4.6
+requests==2.31.0
+httplib2==0.22.0
+numpy==1.24.4
+pytz==2023.3
+regex==2023.6.3
+groq==0.6.0
