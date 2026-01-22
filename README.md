@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/assets/orion_banner.png" width="760"/>
+  <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/orion.png" width="760"/>
 </p>
 
 <h1 align="center">🌌 ORION V1</h1>
