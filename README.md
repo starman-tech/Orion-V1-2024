@@ -1,18 +1,30 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/assets/orion_banner.png" width="720"/>
+  <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/assets/orion_banner.png" width="760"/>
 </p>
 
-<h1 align="center">🌌 Orion V1 — Hybrid AI Assistant Prototype</h1>
+<h1 align="center">🌌 ORION V1</h1>
 
 <p align="center">
-  <b>Local-first voice assistant combining STT + LLM + TTS with system automation.</b><br/>
-  <i>Prototype Jarvis-like framework for research & experimentation.</i>
+  <b>Hybrid AI Assistant Prototype</b><br/>
+  <i>Local-first voice assistant combining STT, LLM and TTS with system automation.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-STT%20%2B%20LLM%20%2B%20TTS-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Type-Research%20Prototype-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-STT%20%7C%20LLM%20%7C%20TTS-purple?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+<hr style="border:1px solid #333"/>
+
+<p align="center">
+  ⚡ <b>Experimental Jarvis-like assistant for offline/online AI research</b> ⚡  
 </p>
 
 ---
