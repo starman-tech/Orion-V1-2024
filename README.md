@@ -4,6 +4,12 @@
 
 ---
 
+## 🏅 Badges
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg?style=flat-square)](https://github.com/starman-tech/Orion-V1-2024/releases)
+
+---
 ## Enoncé du problème
 Construire un assistant vocal local qui :
 - Écoute l'utilisateur (STT),
