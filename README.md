@@ -30,6 +30,11 @@
   <sub>🛰 Experimental AI System Automation Framework</sub>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=STT+%E2%86%92+LLM+%E2%86%92+Commands+%E2%86%92+TTS;Local-first+AI+Assistant;System+Automation+with+Language">
+</p>
+
+
 
 ---
 
