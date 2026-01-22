@@ -2,7 +2,17 @@
   <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/icon.svg" width="760"/>
 </p>
 
-<h1 align="center">🌌 ORION V1</h1>
+<p align="center">
+<pre>
+   ██████╗ ██████╗ ██╗ ██████╗ ███╗   ██╗
+  ██╔═══██╗██╔══██╗██║██╔═══██╗████╗  ██║
+  ██║   ██║██████╔╝██║██║   ██║██╔██╗ ██║
+  ██║   ██║██╔══██╗██║██║   ██║██║╚██╗██║
+  ╚██████╔╝██║  ██║██║╚██████╔╝██║ ╚████║
+   ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+</pre>
+</p>
+
 
 <p align="center">
   <b>Hybrid AI Assistant Prototype</b><br/>
