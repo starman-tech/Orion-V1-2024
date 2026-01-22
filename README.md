@@ -2,8 +2,9 @@
   <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/icon.svg" width="760"/>
 </p>
 
-<p align="center">
-<pre>
+<div align="center">
+
+<pre style="display:inline-block; text-align:left;">
    ██████╗ ██████╗ ██╗ ██████╗ ███╗   ██╗
   ██╔═══██╗██╔══██╗██║██╔═══██╗████╗  ██║
   ██║   ██║██████╔╝██║██║   ██║██╔██╗ ██║
@@ -11,7 +12,9 @@
   ╚██████╔╝██║  ██║██║╚██████╔╝██║ ╚████║
    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 </pre>
-</p>
+
+</div>
+
 
 
 <p align="center">
