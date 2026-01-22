@@ -26,6 +26,10 @@
 <p align="center">
   ⚡ <b>Experimental Jarvis-like assistant for offline/online AI research</b> ⚡  
 </p>
+<p align="center">
+  <sub>🛰 Experimental AI System Automation Framework</sub>
+</p>
+
 
 ---
 
