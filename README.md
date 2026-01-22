@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>Hybrid AI Assistant Prototype</b><br/>
-  <i>Local-first voice assistant combining STT, LLM and TTS with system automation.</i>
+  <i>Voice assistant combining STT, LLM and TTS with system automation.</i>
 </p>
 
 <p align="center">
