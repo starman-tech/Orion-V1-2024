@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-STT%20%2B%20LLM%20%2B%20TTS-purple?style=for-the-badge">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/Type-Research%20Prototype-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-STT%20%7C%20LLM%20%7C%20TTS-purple?style=flat-square">
-</p>
-
 
 ---
 
