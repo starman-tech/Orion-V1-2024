@@ -1,4 +1,24 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/starman-tech/Orion-V1-2024/main/assets/orion_banner.png" width="720"/>
+</p>
+
+<h1 align="center">🌌 Orion V1 — Hybrid AI Assistant Prototype</h1>
+
+<p align="center">
+  <b>Local-first voice assistant combining STT + LLM + TTS with system automation.</b><br/>
+  <i>Prototype Jarvis-like framework for research & experimentation.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-STT%20%2B%20LLM%20%2B%20TTS-purple?style=for-the-badge">
+</p>
+
+---
+
 # Orion-V1-2024
+
 
 > Remarque : ce projet est un prototype personnel de type "Jarvis" écrit en Python, créé il y a ~2–3 ans. Beaucoup de techniques et d'API sont aujourd'hui datées ou fragiles, mais le code sert de base d'apprentissage pour bâtir un assistant hybride (STT + LLM + TTS) hors-ligne/en-ligne.
 
